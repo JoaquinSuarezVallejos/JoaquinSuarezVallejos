@@ -1,4 +1,4 @@
-<name> Joaquín / Joaco </name>
+Joaquín / Joaco
 
 English: I'm a passionate Software Developer specialized in Front-End web development and an IT Management student at UADE. Learn more about me on LinkedIn. Let's get in touch!
 
