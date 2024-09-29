@@ -1,4 +1,4 @@
-(English): Learn more about me on LinkedIn. Let's get in touch!
+(English): Learn more about me on LinkedIn. Feel free to reach out!
 
 (Español): Conocé más sobre mí en LinkedIn. ¡Pongámonos en contacto!
 
